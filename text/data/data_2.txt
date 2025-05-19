@@ -1,0 +1,24 @@
+Type of food: Bajan Cou Cou
+
+General Data
+Season: Summer
+Environmental factors: Hot weather, users tend to prefer lighter meals
+Food trends: High-protein crusts (e.g., chickpea, cauliflower), plant-based cheeses, fermented doughs
+Availability of ingredients: Fresh vegetables (e.g., tomatoes, zucchini, basil), alternative flours (almond, cauliflower), lean meats, vegan cheese available at major supermarkets
+
+Personal Data
+Race: East Asian
+Sex: Female
+Occupation: Software Engineer (sedentary job)
+Income: Middle income (~$60,000/year)
+Nationality: Canadian
+Location: Vancouver, BC
+Age: 34
+Lifestyle: Moderately active (yoga twice a week, occasional hiking)
+Weight: 75 kg
+Height: 165 cm
+Dietary restrictions: Mostly plant-based, eats dairy occasionally (flexitarian)
+Allergies: Mild sensitivity to gluten (not celiac)
+Fitness goals: Maintain weight, increase energy, improve gut health
+Health conditions: Mild IBS (irritable bowel syndrome)
+Cooking skill level: Intermediate (comfortable with recipes but not highly skilled)
