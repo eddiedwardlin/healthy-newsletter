@@ -1,6 +1,6 @@
 # healthy-newsletter
 
-RAG system to that generates healthy meals based on a user's health data.
+RAG system to that generates a healthy meal newsletter based on a user's health data.
 
 ### Instructions
 1. Create and activate virtual environment
